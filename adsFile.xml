@@ -1,0 +1,36 @@
+﻿
+<Advertisements>
+    <Ad>
+        <ImageUrl>Students.jpg</ImageUrl>
+        <Impressions>1</Impressions>
+        <Keyword>students</Keyword>
+    </Ad>
+    <Ad>
+        <ImageUrl>quote.jpg</ImageUrl>
+
+        <Impressions>
+            1
+        </Impressions>
+        <Keyword>students</Keyword>
+    </Ad>
+    <Ad>
+        <ImageUrl>
+            student2.jpg
+        </ImageUrl>
+
+        <Impressions>
+            1
+        </Impressions>
+        <Keyword>students</Keyword>
+    </Ad>
+    <Ad>
+        <ImageUrl>
+            quote2.jpg
+        </ImageUrl>
+
+        <Impressions>
+            1
+        </Impressions>
+        <Keyword>students</Keyword>
+    </Ad>
+</Advertisements>
